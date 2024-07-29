@@ -9,19 +9,19 @@
 </p>
 
 <p align="center">
-  <a href="https://twitter.com/mahanthi_rahul"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25></a> <a href="https://www.linkedin.com/in/mahanthi-rahul/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a> <a href="https://www.instagram.com/mahanthi_rahul/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=25></a> 
+  <a href="https://x.com/Rahul60654242"><img src="https://img.shields.io/badge/x-%23000000.svg?&style=for-the-badge&logo=x&logoColor=white" height=25></a> <a href="https://www.linkedin.com/in/rahul-mahanthi-048a2623a/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a> <a href="https://www.instagram.com/rahull_.07____/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=25></a> 
 </p>
 
 <p align=center>
-  <a href="https://github.com/mahanthi-rahul">
+  <a href="https://github.com/RahulMahanthi">
     <img src="https://badges.pufler.dev/visits/RahulMahanthi/RahulMahanthi?style=flat-square&color=black&logo=github">
   </a>
-  <a href="https://github.com/mahanthi-rahul?tab=repositories">
+  <a href="https://github.com/RahulMahanthi?tab=repositories">
     <img src="https://badges.pufler.dev/repos/RahulMahanthi?style=flat-square&color=black&logo=github">
   </a>
 </p>
 <p align="center">
-<a href="https://github.com/mahanthi-rahul"><img src="https://img.shields.io/github/followers/RahulMahanthi?style=social"></a>
+<a href="https://github.com/RahulMahanthi"><img src="https://img.shields.io/github/followers/RahulMahanthi?style=social"></a>
 </p>
 <p align="center">
 <img src="https://img.shields.io/badge/Machine%20Learning-green"> <img src="https://img.shields.io/badge/Deep%20Learning-red"> <img src="https://img.shields.io/badge/Computer%20Vision-magenta"> <img src="https://img.shields.io/badge/Natural%20Language%20Processing-yellow"> <img src="https://img.shields.io/badge/Web%20Development-blue"> <img src="https://img.shields.io/badge/Backend%20Development-orange">
@@ -33,4 +33,10 @@
 
 <p align=center>  
   <img align=center src="https://github-readme-stats.vercel.app/api?username=RahulMahanthi&show_icons=true&theme=radical">
+</p>
+<p align=center>
+  <img align=center src="https://github-readme-streak-stats.herokuapp.com/?user=RahulMahanthi&theme=radical" alt="streak">
+</p>
+<p align=center>
+  <img align=center src="https://activity-graph.herokuapp.com/graph?username=RahulMahanthi&theme=radical" alt="activity">
 </p>
