@@ -1,5 +1,5 @@
 <p align="center">
- <img width="800" height="400" src="https://user-images.githubusercontent.com/74038190/219923823-bf1ce878-c6b8-4faa-be07-93e6b1006521.gif">
+  <img width="600" height="300" src="https://user-images.githubusercontent.com/74038190/219923823-bf1ce878-c6b8-4faa-be07-93e6b1006521.gif">
 </p>
 
 <h2 align="center">Hello there! My name is Mahanthi Rahul. 👋🤓</h2>
