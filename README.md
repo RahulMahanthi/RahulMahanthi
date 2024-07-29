@@ -37,6 +37,15 @@
 <p align=center>
   <img align=center src="https://github-readme-streak-stats.herokuapp.com/?user=RahulMahanthi&theme=radical" alt="streak">
 </p>
-<p align=center>
-  <img align=center src="https://activity-graph.herokuapp.com/graph?username=RahulMahanthi&theme=radical" alt="activity">
-</p>
+<br>
+
+### 📊 Github Stats
+<a href='https://github.com/RahulMahanthi/github-stats-transparent'>
+  
+![Stats Overview](https://raw.githubusercontent.com/RahulMahanthi/github-stats-transparent/output/generated/overview.svg)
+![Most Used Languages](https://raw.githubusercontent.com/RahulMahanthi/github-stats-transparent/output/generated/languages.svg)
+
+</a>
+
+<br>
+
