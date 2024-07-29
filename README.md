@@ -32,5 +32,5 @@
 </p>
 
 <p align=center>  
-  <img align=center src="https://github-readme-stats.vercel.app/api?username=mahanthi-rahul&show_icons=true&theme=radical">
+  <img align=center src="https://github-readme-stats.vercel.app/api?username=RahulMahanthi&show_icons=true&theme=radical">
 </p>
