@@ -14,14 +14,14 @@
 
 <p align=center>
   <a href="https://github.com/mahanthi-rahul">
-    <img src="https://badges.pufler.dev/visits/mahanthi-rahul/mahanthi-rahul?style=flat-square&color=black&logo=github">
+    <img src="https://badges.pufler.dev/visits/RahulMahanthi/RahulMahanthi?style=flat-square&color=black&logo=github">
   </a>
   <a href="https://github.com/mahanthi-rahul?tab=repositories">
-    <img src="https://badges.pufler.dev/repos/mahanthi-rahul?style=flat-square&color=black&logo=github">
+    <img src="https://badges.pufler.dev/repos/RahulMahanthi?style=flat-square&color=black&logo=github">
   </a>
 </p>
 <p align="center">
-<a href="https://github.com/mahanthi-rahul"><img src="https://img.shields.io/github/followers/mahanthi-rahul?style=social"></a>
+<a href="https://github.com/mahanthi-rahul"><img src="https://img.shields.io/github/followers/RahulMahanthi?style=social"></a>
 </p>
 <p align="center">
 <img src="https://img.shields.io/badge/Machine%20Learning-green"> <img src="https://img.shields.io/badge/Deep%20Learning-red"> <img src="https://img.shields.io/badge/Computer%20Vision-magenta"> <img src="https://img.shields.io/badge/Natural%20Language%20Processing-yellow"> <img src="https://img.shields.io/badge/Web%20Development-blue"> <img src="https://img.shields.io/badge/Backend%20Development-orange">
