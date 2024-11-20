@@ -30,6 +30,7 @@ A passionate Software Developer and Machine Learning Engineer currently pursuing
 
 - 🔭 I’m currently working on **Object Detection using YOLO**
 - 📫 How to reach me: **rahulkomal834@gmail.com**
+- 📚 Constantly learning about Data Structures, Algorithms, and emerging tech.
 ---
 
 ### Blogs posts
