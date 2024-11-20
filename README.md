@@ -69,7 +69,7 @@ A passionate Software Developer and Machine Learning Engineer currently pursuing
 <tbody> 
 <tr> 
 <td align="center"> <span><strong>Node.js</strong></span><br/> <img height="64px" width="64px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" style="border: 2px solid #FF5733; padding: 5px;"> </td> 
-<td align="center"> <span><strong>Express.js</strong></span><br/> <img height="64px" width="64px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" style="border: 2px solid #FF5733; padding: 5px;"> </td> 
+<td align="center"> <span><strong>Express.js</strong></span><br/> <img height="64px" width="64px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" style="border: 2px solid #FF5733; padding: 5px;"> </td> 
 
 </tr> 
 </tbody> 
