@@ -1,61 +1,72 @@
-<p align="center">
-  <img width="600" height="300" src="https://user-images.githubusercontent.com/74038190/219923823-bf1ce878-c6b8-4faa-be07-93e6b1006521.gif">
-</p>
+<!--## Usage Policy 📄
 
-<h2 align="center">Hello there! My name is Mahanthi Rahul. 👋🤓</h2>
+Please **do not copy the code directly from this repository**. Instead, fork this repository or clone it if you want to use or modify the code. Respecting this policy helps ensure proper attribution and version control. Thank you!
 
-<p align="center">
-I'm currently pursuing my Bachelor of Technology in Computer Science and Engineering from SRM University, Amaravati :student:. I'm passionate about areas of machine learning like deep learning, computer vision, and natural language processing :man_technologist:. I also enjoy working on web development projects and exploring new technologies. I've started diving into backend development and web applications as well ✨ and hope to make a meaningful impact in these fields.
-</p>
+By using the code in this repository, you agree to these terms.
 
-<p align="center">
-When I'm not coding, you can find me exploring new technologies, reading about the latest trends in tech, or enjoying a good movie. I also love playing sports and keeping up with the latest in the world of memes 😂.
-</p>
+## Why Fork or Clone?
 
-<p align="center">
-  <a href="https://x.com/Rahul60654242"><img src="https://img.shields.io/badge/x-%23000000.svg?&style=for-the-badge&logo=x&logoColor=white" height=25></a> 
-  <a href="https://www.linkedin.com/in/rahul-mahanthi-048a2623a/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a>
-  <a href="https://www.instagram.com/rahull_.07____/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=25></a>
-</p>
+Forking or cloning the repository allows you to:
+- Get the latest updates.
+- Keep your changes separate and organized.
+- Contribute back to the original project.
 
-<p align="center">
-  <a href="https://github.com/RahulMahanthi">
-    <img src="https://badges.pufler.dev/visits/RahulMahanthi/RahulMahanthi?style=flat-square&color=black&logo=github" />
-  </a>
-  <a href="https://github.com/RahulMahanthi?tab=repositories">
-    <img src="https://badges.pufler.dev/repos/RahulMahanthi?style=flat-square&color=black&logo=github" />
-  </a>
-  <a href="https://github.com/RahulMahanthi">
-    <img src="https://img.shields.io/github/followers/RahulMahanthi?style=social" />
-  </a>
-</p>
+You can follow the below steps:
+- Fork the repository: Click on the "Fork" button at the top-right and star the repo.
+- Clone the repository: Use the following command:
+   git clone https://github.com/your-username/your-repo-name.git
+- Start working on your fork
+- If you've made improvements or fixes in your fork that you want to share with the original project, you can commit the changes and create a pull request.
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Machine%20Learning-green?style=flat&logo=python" />
-  <img src="https://img.shields.io/badge/Deep%20Learning-red?style=flat&logo=python" />
-  <img src="https://img.shields.io/badge/Computer%20Vision-magenta?style=flat&logo=python" />
-  <img src="https://img.shields.io/badge/Natural%20Language%20Processing-yellow?style=flat&logo=python" />
-  <img src="https://img.shields.io/badge/Web%20Development-blue?style=flat&logo=html5" />
-  <img src="https://img.shields.io/badge/Backend%20Development-orange?style=flat&logo=python" />
-</p>
+-->
 
-<hr>
+# Hi 👋, I'm Mahanthi Rahul
 
-<p align="center">
-  <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?&style=for-the-badge&logo=TensorFlow&logoColor=white" />
-  <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?&style=for-the-badge&logo=PyTorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
-  <img src="https://img.shields.io/badge/Django-%23092E20.svg?&style=for-the-badge&logo=django&logoColor=white" />
-  <img src="https://img.shields.io/badge/Flask-%000000.svg?&style=for-the-badge&logo=flask&logoColor=white" />
-</p>
+A passionate Software Developer and Backend Developer currently pursuing BTech CSE (4th Year, 2021-25) with a specialization in AI and ML at SRM University AP.
 
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=RahulMahanthi&show_icons=true&theme=radical" />
-</p>
+<!--
+<p align="left"> <a href="https://twitter.com/rahulmahanthi" target="blank"><img src="https://img.shields.io/twitter/follow/rahulmahanthi?logo=twitter&style=for-the-badge" alt="rahulmahanthi" /></a> </p>
+-->
 
-<p align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=RahulMahanthi&theme=radical" alt="streak" />
-</p>
+- 🔭 I’m currently working on **a Crop Recommendation System**
+- 📫 How to reach me: **rahulkomal834@gmail.com**
+
+---
+
+### Blogs posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+### Connect with me:
+
+[![LinkedIn](https://img.shields.io/badge/-Mahanthi%20Rahul-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://linkedin.com/in/mahanthi-rahul)](https://linkedin.com/in/mahanthi-rahul)
+[![Medium](https://img.shields.io/badge/-@rahulmahanthi-black?style=flat-square&logo=medium&logoColor=white&link=https://medium.com/@rahulkomal834)](https://medium.com/@rahulkomal834)
+[![HackerRank](https://img.shields.io/badge/-Mahanthi%20Rahul-green?style=flat-square&logo=hackerrank&logoColor=white&link=https://www.hackerrank.com/rahulkomal834)](https://www.hackerrank.com/rahulkomal834)
+[![LeetCode](https://img.shields.io/badge/-Mahanthi86-yellow?style=flat-square&logo=leetcode&logoColor=white&link=https://www.leetcode.com/mahanthi86)](https://www.leetcode.com/mahanthi86)
+
+---
+
+### Languages and Tools:
+
+### Frontend:
+<center> 
+<table> 
+<tbody> 
+<tr> 
+<td align="center"> <span><strong>HTML</strong></span><br/> <img height="64px" width="64px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" style="border: 2px solid #4CAF50; padding: 5px;"> </td> 
+<td align="center"> <span><strong>CSS</strong></span><br/> <img height="64px" width="64px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" style="border: 2px solid #4CAF50; padding: 5px;"> </td> 
+<td align="center"> <span><strong>JavaScript</strong></span><br/> <img height="64px" width="64px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" style="border: 2px solid #4CAF50; padding: 5px;"> </td> 
+<td align="center"> <span><strong>Bootstrap</strong></span><br/> <img height="64px" width="64px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" style="border: 2px solid #4CAF50; padding: 5px;"> </td> 
+</tr> 
+</tbody> 
+</table> 
+</center>
+
+### Backend:
+<center> 
+<table> 
+<tbody> 
+<tr> 
+<td align="center"> <span><strong>Flask</strong></span><br/> <img height="64px" width="64px" src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" style="border: 2px solid #FF5733; padding: 5px;"> </td> 
+<td align="center"> <span><strong>Django</strong></span><br/> <img height="64px" width="64px" src="https://cdn.worldvectorlogo.com/logos/django.svg" style="border: 2px solid #FF5733; padding: 5px;"> </td> 
+<td align="center"> <span><strong>Node.js</strong></span><br/> <img height="64px
