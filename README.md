@@ -33,9 +33,6 @@ A passionate Software Developer and Machine Learning Engineer currently pursuing
 - 📚 Constantly learning about Data Structures, Algorithms, and emerging tech.
 ---
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
 
 ### Connect with me:
 
