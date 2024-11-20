@@ -56,7 +56,8 @@ A passionate Software Developer and Machine Learning Engineer currently pursuing
 <td align="center"> <span><strong>HTML</strong></span><br/> <img height="64px" width="64px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" style="border: 2px solid #4CAF50; padding: 5px;"> </td> 
 <td align="center"> <span><strong>CSS</strong></span><br/> <img height="64px" width="64px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" style="border: 2px solid #4CAF50; padding: 5px;"> </td> 
 <td align="center"> <span><strong>JavaScript</strong></span><br/> <img height="64px" width="64px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" style="border: 2px solid #4CAF50; padding: 5px;"> </td> 
-<td align="center"> <span><strong>Bootstrap</strong></span><br/> <img height="64px" width="64px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" style="border: 2px solid #4CAF50; padding: 5px;"> </td> 
+<td align="center"> <span><strong>React</strong></span><br/> <img height="64px" width="64px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" style="border: 2px solid #4CAF50; padding: 5px;"> </td> 
+</td> 
 </tr> 
 </tbody> 
 </table> 
@@ -67,7 +68,6 @@ A passionate Software Developer and Machine Learning Engineer currently pursuing
 <table> 
 <tbody> 
 <tr> 
-<td align="center"> <span><strong>Flask</strong></span><br/> <img height="64px" width="64px" src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" style="border: 2px solid #FF5733; padding: 5px;"> </td> 
 <td align="center"> <span><strong>Django</strong></span><br/> <img height="64px" width="64px" src="https://cdn.worldvectorlogo.com/logos/django.svg" style="border: 2px solid #FF5733; padding: 5px;"> </td> 
 <td align="center"> <span><strong>Node.js</strong></span><br/> <img height="64px" width="64px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" style="border: 2px solid #FF5733; padding: 5px;"> </td> 
 </tr> 
@@ -81,8 +81,8 @@ A passionate Software Developer and Machine Learning Engineer currently pursuing
 <tbody> 
 <tr> 
 <td align="center"> <span><strong>MySQL</strong></span><br/> <img height="64px" width="64px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" style="border: 2px solid #FFC107; padding: 5px;"> </td> 
-<td align="center"> <span><strong>SQLite</strong></span><br/> <img height="64px" width="64px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" style="border: 2px solid #FFC107; padding: 5px;"> </td> 
-<td align="center"> <span><strong>PostgreSQL</strong></span><br/> <img height="64px" width="64px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" style="border: 2px solid #FFC107; padding: 5px;"> </td> 
+<td align="center"> <span><strong>MongoDB</strong></span><br/> <img height="64px" width="64px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" style="border: 2px solid #FFC107; padding: 5px;"> </td> 
+
 </tr> 
 </tbody> 
 </table> 
