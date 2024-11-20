@@ -22,13 +22,13 @@ You can follow the below steps:
 
 # Hi 👋, I'm Mahanthi Rahul
 
-A passionate Software Developer and Backend Developer currently pursuing BTech CSE (4th Year, 2021-25) with a specialization in AI and ML at SRM University AP.
+A passionate Software Developer and Machine Learning Engineer currently pursuing BTech CSE (4th Year, 2021-25) with a specialization in AI and ML at SRM University AP.
 
 <!--
 <p align="left"> <a href="https://twitter.com/rahulmahanthi" target="blank"><img src="https://img.shields.io/twitter/follow/rahulmahanthi?logo=twitter&style=for-the-badge" alt="rahulmahanthi" /></a> </p>
 -->
 
-- 🔭 I’m currently working on **a Crop Recommendation System**
+- 🔭 I’m currently working on **Object Detection using YOLO**
 - 📫 How to reach me: **rahulkomal834@gmail.com**
 
 ---
