@@ -39,10 +39,10 @@ A passionate Software Developer and Machine Learning Engineer currently pursuing
 
 ### Connect with me:
 
-[![LinkedIn](https://img.shields.io/badge/-Mahanthi%20Rahul-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://linkedin.com/in/mahanthi-rahul)](https://linkedin.com/in/mahanthi-rahul)
-[![Medium](https://img.shields.io/badge/-@rahulmahanthi-black?style=flat-square&logo=medium&logoColor=white&link=https://medium.com/@rahulkomal834)](https://medium.com/@rahulkomal834)
+[![LinkedIn](https://img.shields.io/badge/-Mahanthi%20Rahul-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://linkedin.com/in/mahanthi-rahul)](https://www.linkedin.com/in/rahul-mahanthi-048a2623a/)
+[![Medium](https://img.shields.io/badge/-@rahulmahanthi-black?style=flat-square&logo=medium&logoColor=white&link=https://medium.com/@rahulkomal834)](https://medium.com/@rahul_mahanthi)
 [![HackerRank](https://img.shields.io/badge/-Mahanthi%20Rahul-green?style=flat-square&logo=hackerrank&logoColor=white&link=https://www.hackerrank.com/rahulkomal834)](https://www.hackerrank.com/rahulkomal834)
-[![LeetCode](https://img.shields.io/badge/-Mahanthi86-yellow?style=flat-square&logo=leetcode&logoColor=white&link=https://www.leetcode.com/mahanthi86)](https://www.leetcode.com/mahanthi86)
+[![LeetCode](https://img.shields.io/badge/-Mahanthi86-yellow?style=flat-square&logo=leetcode&logoColor=white&link=https://www.leetcode.com/mahanthi86)](https://leetcode.com/u/Rahul1033/)
 
 ---
 
