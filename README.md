@@ -69,4 +69,63 @@ A passionate Software Developer and Machine Learning Engineer currently pursuing
 <tr> 
 <td align="center"> <span><strong>Flask</strong></span><br/> <img height="64px" width="64px" src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" style="border: 2px solid #FF5733; padding: 5px;"> </td> 
 <td align="center"> <span><strong>Django</strong></span><br/> <img height="64px" width="64px" src="https://cdn.worldvectorlogo.com/logos/django.svg" style="border: 2px solid #FF5733; padding: 5px;"> </td> 
-<td align="center"> <span><strong>Node.js</strong></span><br/> <img height="64px
+<td align="center"> <span><strong>Node.js</strong></span><br/> <img height="64px" width="64px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" style="border: 2px solid #FF5733; padding: 5px;"> </td> 
+</tr> 
+</tbody> 
+</table> 
+</center>
+
+### Databases:
+<center> 
+<table> 
+<tbody> 
+<tr> 
+<td align="center"> <span><strong>MySQL</strong></span><br/> <img height="64px" width="64px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" style="border: 2px solid #FFC107; padding: 5px;"> </td> 
+<td align="center"> <span><strong>SQLite</strong></span><br/> <img height="64px" width="64px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" style="border: 2px solid #FFC107; padding: 5px;"> </td> 
+<td align="center"> <span><strong>PostgreSQL</strong></span><br/> <img height="64px" width="64px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" style="border: 2px solid #FFC107; padding: 5px;"> </td> 
+</tr> 
+</tbody> 
+</table> 
+</center>
+
+### Programming Languages:
+<center> 
+<table> 
+<tbody> 
+<tr> 
+<td align="center"> <span><strong>Python</strong></span><br/> <img height="64px" width="64px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" style="border: 2px solid #2196F3; padding: 5px;"> </td> 
+<td align="center"> <span><strong>C++</strong></span><br/> <img height="64px" width="64px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" style="border: 2px solid #2196F3; padding: 5px;"> </td> 
+<td align="center"> <span><strong>Java</strong></span><br/> <img height="64px" width="64px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" style="border: 2px solid #2196F3; padding: 5px;"> </td> 
+<td align="center"> <span><strong>JavaScript</strong></span><br/> <img height="64px" width="64px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" style="border: 2px solid #2196F3; padding: 5px;"> </td> 
+</tr> 
+</tbody> 
+</table> 
+</center>
+
+### Data Analysis Tools:
+<center> 
+<table> 
+<tbody> 
+<tr> 
+<td align="center"> <span><strong>Pandas</strong></span><br/> <img height="64px" width="64px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" style="border: 2px solid #9C27B0; padding: 5px;"> </td> 
+<td align="center"> <span><strong>NumPy</strong></span><br/> <img height="64px" width="64px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" style="border: 2px solid #9C27B0; padding: 5px;"> </td> 
+<td align="center"> <span><strong>Matplotlib</strong></span><br/> <img height="64px" width="64px" src="https://matplotlib.org/stable/_static/images/favicon.ico" style="border: 2px solid #9C27B0; padding: 5px;"> </td> 
+<td align="center"> <span><strong>Seaborn</strong></span><br/> <img height="64px" width="64px" src="https://seaborn.pydata.org/_static/favicon.ico" style="border: 2px solid #9C27B0; padding: 5px;"> </td> 
+</tr> 
+</tbody> 
+</table> 
+</center>
+
+### Tools:
+<center> 
+<table> 
+<tbody> 
+<tr> 
+<td align="center"> <span><strong>Git</strong></span><br/> <img height="64px" width="64px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" style="border: 2px solid #607D8B; padding: 5px;"> </td> 
+<td align="center"> <span><strong>Docker</strong></span><br/> <img height="64px" width="64px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" style="border: 2px solid #607D8B; padding: 5px;"> </td> 
+<td align="center"> <span><strong>VS Code</strong></span><br/> <img height="64px" width="64px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" style="border: 2px solid #607D8B; padding: 5px;"> </td> 
+<td align="center"> <span><strong>Postman</strong></span><br/> <img height="64px" width="64px" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" style="border: 2px solid #607D8B; padding: 5px;"> </td> 
+</tr> 
+</tbody> 
+</table> 
+</center>
