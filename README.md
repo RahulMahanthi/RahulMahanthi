@@ -28,7 +28,7 @@ A passionate Software Developer and Machine Learning Engineer currently pursuing
 <p align="left"> <a href="https://twitter.com/rahulmahanthi" target="blank"><img src="https://img.shields.io/twitter/follow/rahulmahanthi?logo=twitter&style=for-the-badge" alt="rahulmahanthi" /></a> </p>
 -->
 
-- 🔭 I’m currently working on **Object Detection using YOLO**
+- 🔭 I’m currently working on **LLM's**
 - 📫 How to reach me: **rahulkomal834@gmail.com**
 - 📚 Constantly learning about Data Structures, Algorithms, and emerging tech.
 ---
